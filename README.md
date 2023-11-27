@@ -1,5 +1,5 @@
 # HeadUV-UNet
-As the metaverse rapidly develops, 3D facial age transformation will attract increasing attention, as it can bring many potential benefits to a wide variety of users, e.g., 3D aging figures creation, 3D facial data augmentation and attribute editing. Compared with 2D methods, 3D face aging is an underexplored problem. To fill this gap, we developed a new mesh-to-mesh Wasserstein GAN (MeshWGAN) with a multi-task gradient penalty to model a continuous bi-directional 3D facial geometric aging process. 
+Our research focuses on the completion of 3D heads, specifically predicting the 3D scalp regions based on facial regions to generate a complete representation of the head. This comprehensive understanding of the head has practical applications in various fields. By aiming to create a full head representation from face images or scans, encompassing both the face and scalp regions, our research contributes to the advancement of computer graphics and ergonomics design. This comprehensive approach holds great potential for improving various applications, ranging from virtual character creation to personalized headgear design.
 <img src="https://github.com/Easy-Shu/HeadUV-UNet/blob/main/Figure13s.jpg" width=100% alt="Demo"></img>
 
 

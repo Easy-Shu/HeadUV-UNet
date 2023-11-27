@@ -1,1 +1,18 @@
 # HeadUV-UNet
+As the metaverse rapidly develops, 3D facial age transformation will attract increasing attention, as it can bring many potential benefits to a wide variety of users, e.g., 3D aging figures creation, 3D facial data augmentation and attribute editing. Compared with 2D methods, 3D face aging is an underexplored problem. To fill this gap, we developed a new mesh-to-mesh Wasserstein GAN (MeshWGAN) with a multi-task gradient penalty to model a continuous bi-directional 3D facial geometric aging process. 
+<img src="https://github.com/Easy-Shu/HeadUV-UNet/blob/main/Figure13s.jpg" width=100% alt="Demo"></img>
+
+
+## Citation
+If you find our work useful to your research, please consider citing:
+```
+@article{Jie2023Mesh,
+  title={{MeshWGAN}: Mesh-to-Mesh Wasserstein {GAN} with Multi-Task Gradient Penalty for {3D} Facial Geometric Age Transformation},
+  author={Jie Zhang and Kangneng Zhou and Yan Luximon and Tong-Yee Lee and Ping Li},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2023},
+  pages={1--14}
+}
+```
+## Contacts
+Please contact  jpeter.zhang@connect.polyu.hk  or open an issue for any questions or suggestions.

@@ -11,7 +11,7 @@ If you find our work useful to your research, please consider citing:
   title={{3DCMM}: {3D} Comprehensive Morphable Models with {UV-UNet} for Accurate Head Creation},
   author={Jie Zhang and Kangneng Zhou and Yan Luximon and Tong-Yee Lee and Ping Li},
   year={2023},
-  pages={1--13}
+  pages={1--14}
 }
 ```
 
